@@ -6,6 +6,7 @@ public class HelloWorld {
 		System.out.println("나 혼자 연습");
 		System.out.println("create hotfix branch");
 		System.out.println("independent master branch");
+		System.out.println("collaped test");
 
 	}
 
