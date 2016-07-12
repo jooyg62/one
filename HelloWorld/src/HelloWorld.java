@@ -5,6 +5,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("나 혼자 연습");
 		System.out.println("create hotfix branch");
+		System.out.println("collaped test");
 
 	}
 
