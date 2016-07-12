@@ -5,6 +5,7 @@ public class HelloWorld2 {
 		// TODO Auto-generated method stub
 		System.out.println("create second class file");
 		System.out.println("Push added print line");
+		System.out.println("start fetch2");
 
 	}
 
